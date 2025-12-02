@@ -1,1 +1,1 @@
-# Student-Grade-Stats-Calculator
+Small projects related to C++ basics
